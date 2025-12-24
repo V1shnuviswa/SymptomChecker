@@ -121,13 +121,7 @@ Specific symptoms that require immediate emergency care
 
 ## 🛠️ Configuration
 
-### Environment Variables (.env)
-```env
-MOONSHOT_API_KEY=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
-MOONSHOT_MODEL=moonshotai/kimi-k2-instruct
-MOONSHOT_BASE_URL=https://api.groq.com/openai/v1
-TAVILY_API_KEY=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
-```
+
 
 ### Vite Configuration
 The frontend proxies API requests to the backend:
