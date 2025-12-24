@@ -34,15 +34,7 @@ An intelligent symptom checker application powered by LangChain's Zero-Shot Reac
 pip install -r requirements.txt
 ```
 
-### 2. Configure Environment
 
-The `.env` file is already configured with your API keys:
-
-```env
-MOONSHOT_API_KEY=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
-MOONSHOT_MODEL=moonshotai/kimi-k2-instruct
-MOONSHOT_BASE_URL=https://api.groq.com/openai/v1
-TAVILY_API_KEY=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
 ```
 
 ### 3. Run the Application
